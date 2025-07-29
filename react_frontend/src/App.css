@@ -6,8 +6,11 @@
   --text-primary: #282c34;
   --text-secondary: #61dafb;
   --border-color: #e9ecef;
-  --button-bg: #007bff;
+  --button-bg: #1e88e5;
   --button-text: #ffffff;
+  --diagram-selected: #1e88e5;
+  --diagram-node: #3949ab;
+  --diagram-accent: #43a047;
 }
 
 [data-theme="dark"] {
